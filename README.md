@@ -19,7 +19,7 @@
 
 ## Redes Sociais:
 - Instagram: Pedro_utumi
-- Linkedln: Pedro Utumi
+- 💬 **LinkedIn**: [seu-linkedin](https://www.linkedin.com/in/pedro_utumi/)
 - Email: Pedroutumi@gmail.com
 
 
