@@ -6,12 +6,13 @@
 
 ## 💻 Linguagens aprendidas:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-- Javascript
-- Typescript
-- SQL
-- HTML
-- CSS
-- C/C++
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=ffffff)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
 
 ## 💼 Trabalho:
 - Magvia Produtos Médicos Ltda
