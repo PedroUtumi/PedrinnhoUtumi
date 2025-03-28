@@ -5,7 +5,7 @@
 - Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 4/4) 
 
 ## 💻 Linguagens aprendidas:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=306998)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=ffffff)
