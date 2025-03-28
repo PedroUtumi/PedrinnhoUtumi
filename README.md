@@ -17,7 +17,8 @@
 ## 💼 Trabalho:
 - Magvia Produtos Médicos Ltda
 - Trabalhando com sistemas embarcados e programação orientada a objetos
-- - [💻 Magvia](https://github.com/MagviaFirmware)
+- - [![Magvia](https://img.shields.io/badge/Organização-MagviaFirmware-blue?logo=github)](https://github.com/MagviaFirmware)
+
 
 ## 🌐 Redes Sociais:
 - 📷 **Instagram**: [Pedro_utumi](https://www.instagram.com/pedro_utumi/)
