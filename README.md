@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro!👋
+ # Olá, eu sou o Pedro!👋
 
 ## 🎓 Escolaridade:
 - Ensino Fundamental I e II: Escola Natividade de Nossa Senhora
@@ -20,7 +20,7 @@
 
 ## 🌐 Redes Sociais:
 - 📷 **Instagram**: [Pedro_utumi](https://www.instagram.com/pedro_utumi/)
-- 💬 **LinkedIn**: [Pedro Utumi]((https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/))
+- 💬 **LinkedIn**: [Pedro Utumi](https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/)
 - 📧 **Email**: Pedroutumi@gmail.com
 
 ## 🛠️ Linguagens mais usadas
