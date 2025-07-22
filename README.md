@@ -38,11 +38,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
 
 
-  ![snake gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
 
+  ## 🐍 Snake Contribution
+
+![snake gif](https://raw.githubusercontent.com/PedrinnhoUtumi/PedrinnhoUtumi/output/github-snake-dark.svg)
 
 <!--
 **PedrinnhoUtumi/PedrinnhoUtumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
