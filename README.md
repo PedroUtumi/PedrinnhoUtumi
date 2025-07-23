@@ -43,7 +43,8 @@
 </div>
 
 ## Snake Contribution
-![snake gif](https://raw.githubusercontent.com/PedrinnhoUtumi/PedrinnhoUtumi/output/github-snake-dark.svg)
+![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 <!--
 **PedrinnhoUtumi/PedrinnhoUtumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
