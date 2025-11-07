@@ -40,30 +40,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
 </p>
-
-## Contato
-
-<a href="mailto:pedroutumi@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" style="margin-right: 12px"/>
-</a>
-
-<a href="https://wa.me/5544997078775">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="32" style="margin-right: 12px"/>
-</a>
-
-<a href="https://instagram.com/pedro_utumi">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" style="margin-right: 12px"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-</a>
-
-
-
 
 ## 🛠️ Linguagens mais usadas
 <div align="center">
