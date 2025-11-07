@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32"/>
 </a>
 <a href="https://instagram.com/pedro_utumi">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram.svg" width="32"/>
 </a>
 <a href="https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
