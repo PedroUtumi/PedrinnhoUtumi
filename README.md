@@ -16,7 +16,7 @@
 🎓 Estudante de **Engenharia de Computação**  
 🚀 Focado em criar soluções **modernas, escaláveis e eficientes**
 
-Atualmente trabalho com desenvolvimento de software na **Magvia Produtos Médicos**, atuando com:
+Tenho experiência profissional com desenvolvimento de software na **Magvia Produtos Médicos**, atuando com:
 
 - Sistemas embarcados
 - Programação orientada a objetos
