@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 💻 **Full Stack Developer** and **Embedded Systems Developer**  
-🎓 **Computer Engineering** student at **Universidade Estadual de Maringá (27th best university in Brazil)**  
+🎓 undergraduate student in **Computer Engineering** at **Universidade Estadual de Maringá (27th best university in Brazil)**  
 🚀 Focused on building **modern, scalable and efficient solutions**
 
 I have professional experience in software development at **Magvia Produtos Médicos Ltda**, working with:
