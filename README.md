@@ -23,8 +23,6 @@ I have professional experience in software development at **Magvia Produtos Méd
 
 ---
 
----
-
 # 🎓 Education
 
 **Computer Engineering**  
