@@ -25,11 +25,11 @@ I have professional experience in software development at **Magvia Produtos Méd
 
 # 🎓 Education
 
-**Computer Engineering**  
-Universidade Estadual de Maringá
+**Graduation**  
+COmputer Engineering - Universidade Estadual de Maringá
 
-**Integrated Technician in Information Technology for the Internet**  
-Universidade Técnologica Federal do Paraná (UTFPR)
+**High School**  
+Integrated Technician in Information Technology for the Internet - Universidade Técnologica Federal do Paraná (UTFPR)
 
 **Elementary and Middle School**  
 Escola Natividade de Nossa Senhora
