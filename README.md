@@ -3,25 +3,23 @@
 </h1>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=900&height=60&color=00F7FF&lines=Full+Stack+Developer;Embedded+Systems+Developer;Computer+Engineering+Student;Building+Modern+and+Scalable+Solutions" />
-
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-💻 Desenvolvedor **Full Stack** e entusiasta de **Sistemas Embarcados**  
-🎓 Estudante de **Engenharia de Computação**  
-🚀 Focado em criar soluções **modernas, escaláveis e eficientes**
+💻 **Full Stack Developer** and **Embedded Systems Developer**  
+🎓 Computer Engineering student at **State University of Maringá**  
+🚀 Focused on building **modern, scalable and efficient solutions**
 
-Tenho experiência profissional com desenvolvimento de software na **Magvia Produtos Médicos**, atuando com:
+I have professional experience in software development at **Magvia Medical Products**, working with:
 
-- Sistemas embarcados
-- Programação orientada a objetos
-- Integração hardware + software
-- Desenvolvimento de aplicações web
+- Embedded systems
+- Object-oriented programming
+- Hardware and software integration
+- Web application development
 
 ---
 
@@ -35,7 +33,7 @@ Tenho experiência profissional com desenvolvimento de software na **Magvia Prod
 
 ---
 
-# 🧠 Tecnologias que utilizo
+# 🧠 Technologies I Use
 
 <p align="center">
 
@@ -85,7 +83,7 @@ Tenho experiência profissional com desenvolvimento de software na **Magvia Prod
 
 ---
 
-# 🌐 Contato
+# 🌐 Contact
 
 <p align="center">
 
