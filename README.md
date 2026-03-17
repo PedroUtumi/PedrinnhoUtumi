@@ -21,13 +21,18 @@ I have professional experience in software development at **Magvia Produtos Méd
 - Hardware and software integration
 - Web application development
 
-<a 
-  href="https://portfolio-iota-drab-18.vercel.app/" 
-  target="_blank" 
-  rel="noopener noreferrer"
->
-  Meu Portfólio
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://portfolio-iota-drab-18.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Acessar_Portfólio-00FFFF?style=for-the-badge" />
 </a>
+
+</p>
+
 ---
 
 # 🎓 Education
