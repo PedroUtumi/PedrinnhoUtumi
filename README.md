@@ -122,7 +122,7 @@ Escola Natividade de Nossa Senhora
 </a>
 
 <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linkedin-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://instagram.com/pedro_utumi">
