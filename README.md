@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/45a8c77f-e5da-42b0-863e-ab8ce00fb775" /><h1 align="center">
 ⚡ Pedro Felipe Onofre Utumi ⚡
 </h1>
 
@@ -11,7 +11,8 @@
 # 👨‍💻 About Me
 
 💻 **Full Stack Developer** and **Embedded Systems Developer**  
-🎓 Undergraduate student in **Computer Engineering** at **Universidade Estadual de Maringá (27th best university in Brazil)**  
+🎓 Undergraduate student in **Computer Engineering** at **Universidade Estadual de Maringá (27th best university in Brazil)**
+🎓 Ex student in Integrated Technician in Information Technology for the Internet at **Universidade Tecnológica Federal do Paraná (among the top 10 in computing in Brazil)**
 🚀 Focused on building **modern, scalable and efficient solutions**
 
 I have professional experience in software development at **Magvia Produtos Médicos Ltda**, working with:
