@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/45a8c77f-e5da-42b0-863e-ab8ce00fb775" /><h1 align="center">
+<h1 align="center">
 ⚡ Pedro Felipe Onofre Utumi ⚡
 </h1>
 
